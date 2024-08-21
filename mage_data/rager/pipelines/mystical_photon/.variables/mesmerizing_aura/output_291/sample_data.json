@@ -1,0 +1,1 @@
+{"text": "Remember to add a space between the variable and the value. Otherwise, it won't be interpreted as a dictionary.\nIt should be:\ndbt run --var 'is_test_run: false'", "section": "Module 4: analytics engineering with dbt", "question": "The - vars argument must be a YAML dictionary, but was of type str", "course": "data-engineering-zoomcamp", "document_id": "2314e3c4"}

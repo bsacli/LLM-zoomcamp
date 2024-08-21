@@ -1,0 +1,1 @@
+{"text": "To do this\npip install gcsfs,\nThereafter copy the uri path to the file and use \ndf = pandas.read_csc(gs://path)", "section": "Module 5: pyspark", "question": "How do you read data stored in gcs on pandas with your local computer?", "course": "data-engineering-zoomcamp", "document_id": "56a67c23"}

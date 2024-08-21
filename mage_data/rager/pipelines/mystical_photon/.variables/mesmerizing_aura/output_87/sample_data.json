@@ -1,0 +1,1 @@
+{"text": "Installing pass via \u2018sudo apt install pass\u2019 helped to solve the issue. More about this can be found here: https://github.com/moby/buildkit/issues/1078", "section": "Module 1: Docker and Terraform", "question": "Docker-Compose - Error getting credentials after running docker-compose up -d", "course": "data-engineering-zoomcamp", "document_id": "ff352621"}

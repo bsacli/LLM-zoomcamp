@@ -1,0 +1,1 @@
+{"text": "Update the line:\nWith:", "section": "Module 5: pyspark", "question": "When configuring the profiles.yml file for dbt-postgres with jinja templates with environment variables, I'm getting \"Credentials in profile \"PROFILE_NAME\", target: 'dev', invalid: '5432'is not of type 'integer'", "course": "data-engineering-zoomcamp", "document_id": "95e302f7"}

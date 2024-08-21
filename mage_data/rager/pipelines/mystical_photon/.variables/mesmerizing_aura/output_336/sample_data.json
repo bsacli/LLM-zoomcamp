@@ -1,0 +1,1 @@
+{"text": "df_finalx=df_finalw.select([col(x).alias(x.replace(\" \",\"\")) for x in df_finalw.columns])\nKrishna Anand", "section": "Module 5: pyspark", "question": "Remove white spaces from column names in Pyspark", "course": "data-engineering-zoomcamp", "document_id": "18c5bafe"}

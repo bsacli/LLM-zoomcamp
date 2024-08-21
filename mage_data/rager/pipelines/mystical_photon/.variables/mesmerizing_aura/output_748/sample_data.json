@@ -1,0 +1,1 @@
+{"text": "Make sure you are on AWS CLI v2 (check with aws --version)\nhttps://docs.aws.amazon.com/cli/latest/userguide/cliv2-migration-instructions.html", "section": "10. Kubernetes and TensorFlow Serving", "question": "Correct AWS CLI version for eksctl", "course": "machine-learning-zoomcamp", "document_id": "00882c83"}

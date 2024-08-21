@@ -1,0 +1,1 @@
+{"text": "Seed files loaded from directory with name \u2018seed\u2019, that\u2019s why you should rename dir with name \u2018data\u2019 to \u2018seed\u2019", "section": "Module 4: analytics engineering with dbt", "question": "When loading github repo raise exception that \u2018taxi_zone_lookup\u2019 not found", "course": "data-engineering-zoomcamp", "document_id": "3c41892d"}

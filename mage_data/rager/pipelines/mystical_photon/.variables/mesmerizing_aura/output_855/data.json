@@ -1,0 +1,1 @@
+{"text": "more specific error line:\nfrom sklearn.feature_extraction import DictVectorizer\nI had this issue and to solve it I did\n!pip install scikit-learn\nJoel Auccapuclla (auccapuclla 2013@gmail.com)", "section": "Module 2: Experiment tracking", "question": "Can\u2019t import sklearn", "course": "mlops-zoomcamp", "document_id": "b80401a2"}

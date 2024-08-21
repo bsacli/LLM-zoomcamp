@@ -1,0 +1,1 @@
+{"text": "Create a virtual environment using the Cmd command (command) and use pip freeze command to write the requirements in the text file\nKrishna Anand", "section": "5. Deploying Machine Learning Models", "question": "Failed to write the dependencies to pipfile and piplock file", "course": "machine-learning-zoomcamp", "document_id": "45f39b76"}

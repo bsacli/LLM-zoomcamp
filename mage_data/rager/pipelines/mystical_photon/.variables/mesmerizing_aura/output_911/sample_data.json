@@ -1,0 +1,1 @@
+{"text": "Problem description: lib_lightgbm.so Reason: image not found\nSolution description: Add \u201cRUN apt-get install libgomp1\u201d to your docker. (change installer command based on OS)\nAdded by Kazeem Hakeem", "section": "Module 4: Deployment", "question": "Dockerizing lightgbm", "course": "mlops-zoomcamp", "document_id": "77d9a742"}

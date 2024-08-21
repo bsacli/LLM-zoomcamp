@@ -1,0 +1,1 @@
+{"text": "I solved this issue: unzip the file with:\nf\nbefore creating head.csv", "section": "Module 5: pyspark", "question": "Compressed file ended before the end-of-stream marker was reached", "course": "data-engineering-zoomcamp", "document_id": "9336ce2c"}

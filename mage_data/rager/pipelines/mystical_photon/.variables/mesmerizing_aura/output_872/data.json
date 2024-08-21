@@ -1,0 +1,1 @@
+{"text": "Please check your current directory while running the mlflow ui command. You need to run mlflow ui or mlflow server command in the right directory.", "section": "Module 2: Experiment tracking", "question": "Setting up Artifacts folders", "course": "mlops-zoomcamp", "document_id": "dd2e7dc9"}

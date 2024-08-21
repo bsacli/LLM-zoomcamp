@@ -1,0 +1,1 @@
+{"text": "Solution: Downgrade setuptools (I downgraded 62.3.2 -> 49.1.0)", "section": "Module 2: Experiment tracking", "question": "Setuptools Replacing Distutils - MLflow Autolog Warning", "course": "mlops-zoomcamp", "document_id": "924fcf47"}

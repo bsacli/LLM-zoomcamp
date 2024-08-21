@@ -1,0 +1,1 @@
+{"text": "In the project directory, run:\njava -cp build/libs/<jar_name>-1.0-SNAPSHOT.jar:out src/main/java/org/example/JsonProducer.java", "section": "Module 6: streaming with kafka", "question": "Java Kafka: How to run producer/consumer/kstreams/etc in terminal", "course": "data-engineering-zoomcamp", "document_id": "02cf2317"}

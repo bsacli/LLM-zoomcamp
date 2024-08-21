@@ -1,0 +1,1 @@
+{"text": "This version combination worked for me:\nPySpark = 3.3.2\nPandas = 1.5.3\n\nIf it still has an error,", "section": "Module 5: pyspark", "question": "PicklingError: Could not serialize object: IndexError: tuple index out of range", "course": "data-engineering-zoomcamp", "document_id": "06014eec"}

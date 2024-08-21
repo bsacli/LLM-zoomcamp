@@ -1,0 +1,1 @@
+{"text": "Answer: No, you don\u2019t have to use ElasticSearch. You can use any library you want. Just make sure it is documented so your peer-reviewers can reproduce your project.", "section": "Certificates", "question": "Do I have to use ElasticSearch or X library?", "course": "llm-faq-v1", "document_id": "ddfdc850"}

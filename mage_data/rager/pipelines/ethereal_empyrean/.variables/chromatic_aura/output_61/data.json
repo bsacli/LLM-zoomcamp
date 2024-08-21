@@ -1,0 +1,1 @@
+{"text": "score = (es_score - 0.5) * 2", "section": "Module 4: Monitoring", "question": "How to scale Elastic search scores from [0, 1] to [-1, 1] to compare its results with your own ones, example calculating ranks using dot_product metric ?", "course": "llm-zoomcamp", "document_id": "cd17f5e1"}

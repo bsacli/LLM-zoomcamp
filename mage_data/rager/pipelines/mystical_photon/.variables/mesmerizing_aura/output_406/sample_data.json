@@ -1,0 +1,1 @@
+{"text": "You can get the version of py4j from inside docker using this command\ndocker exec -it --user airflow airflow-airflow-scheduler-1 bash -c \"ls /opt/spark/python/lib\"", "section": "Project", "question": "Spark docker - `ModuleNotFoundError: No module named 'py4j'` while executing `import pyspark`", "course": "data-engineering-zoomcamp", "document_id": "8e74f943"}

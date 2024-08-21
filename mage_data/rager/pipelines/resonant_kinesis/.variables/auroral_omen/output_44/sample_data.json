@@ -1,0 +1,1 @@
+{"text": "To solve just install transformers directly from github\n!pip install git+https://github.com/huggingface/transformers", "section": "Module 2: Open-Source LLMs", "question": "Python: Error: ModuleNotFoundError: No module named 'transformers.cache_utils'", "course": "llm-zoomcamp", "document_id": "7b87b859"}

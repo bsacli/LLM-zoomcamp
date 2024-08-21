@@ -1,0 +1,1 @@
+{"text": "More info in the Docker Docs on Best Practises", "section": "Module 1: Docker and Terraform", "question": "Docker - cs to store all code in your default Linux distro to get the best out of file system performance (since Docker runs on WSL2 backend by default for Windows 10 Home / Windows 11 Home users).", "course": "data-engineering-zoomcamp", "document_id": "a4abe7a5"}

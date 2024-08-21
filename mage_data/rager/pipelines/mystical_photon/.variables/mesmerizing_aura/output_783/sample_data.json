@@ -1,0 +1,1 @@
+{"text": "Error: ImageDataGenerator name 'scipy' is not defined.\nCheck that scipy is installed in your environment.\nRestart jupyter kernel and try again.\nMarcos MJD", "section": "Miscellaneous", "question": "Error when running ImageDataGenerator.flow_from_dataframe", "course": "machine-learning-zoomcamp", "document_id": "8c7f089f"}

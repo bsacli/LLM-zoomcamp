@@ -1,0 +1,1 @@
+{"text": "You need to uncheck cache preferences in query settings", "section": "Module 3: Data Warehousing", "question": "GCP BQ - When querying two different tables external and materialized you get the same result when count(distinct(*))", "course": "data-engineering-zoomcamp", "document_id": "ebd63566"}

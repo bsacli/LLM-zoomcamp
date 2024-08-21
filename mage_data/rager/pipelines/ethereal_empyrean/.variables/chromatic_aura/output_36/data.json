@@ -1,0 +1,1 @@
+{"text": "Use the following line instead in mounting the current volume to docker for Q4:\n`-v \"/${PWD}/ollama_files:/root/.ollama\"`", "section": "Module 2: Open-Source LLMs", "question": "Docker: Error: Docker mounted volume adds ;C to end of windows path", "course": "llm-zoomcamp", "document_id": "aa8f7017"}

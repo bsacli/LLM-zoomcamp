@@ -1,0 +1,1 @@
+{"text": "The warnings on the jupyter notebooks can be disabled/ avoided with the following comments:\nImport warnings\nwarnings.filterwarnings(\u201cignore\u201d)\nKrishna Anand", "section": "3. Machine Learning for Classification", "question": "How  to Disable/avoid Warnings in Jupyter Notebooks", "course": "machine-learning-zoomcamp", "document_id": "0807f0f3"}

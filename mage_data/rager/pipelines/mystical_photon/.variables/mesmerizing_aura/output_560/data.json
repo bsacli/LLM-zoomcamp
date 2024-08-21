@@ -1,0 +1,1 @@
+{"text": "How to get classification metrics - precision, recall, f1 score, accuracy simultaneously\nUse classification_report from sklearn. For more info check here.\nAbhishek N", "section": "4. Evaluation Metrics for Classification", "question": "How to get all classification metrics?", "course": "machine-learning-zoomcamp", "document_id": "2ab49e43"}

@@ -1,0 +1,1 @@
+{"text": "Use both repartition and coalesce, like so:\ndf = df.repartition(6)\ndf = df.coalesce(6)\ndf.write.parquet('fhv/2019/10', mode='overwrite')", "section": "Module 5: pyspark", "question": "Repartition the Dataframe to 6 partitions using df.repartition(6) - got 8 partitions instead", "course": "data-engineering-zoomcamp", "document_id": "830e2936"}

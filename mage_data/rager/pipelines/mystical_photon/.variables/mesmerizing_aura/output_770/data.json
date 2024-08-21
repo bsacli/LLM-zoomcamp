@@ -1,0 +1,1 @@
+{"text": "Pip install pillow - install pillow library\nfrom PIL import Image\nimg = Image.open('aeroplane.png')\nFrom numpy import asarray\nnumdata=asarray(img)\nKrishna Anand", "section": "Miscellaneous", "question": "Loading the Image with PILLOW library and converting to numpy array", "course": "machine-learning-zoomcamp", "document_id": "a1bd8c34"}

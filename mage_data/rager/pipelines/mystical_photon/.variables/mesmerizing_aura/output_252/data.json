@@ -1,0 +1,1 @@
+{"text": "\u201cgs\\storage_link\\*.parquet\u201d need to be added in destination folder", "section": "Module 4: analytics engineering with dbt", "question": "Move many files (more than one) from Google cloud storage bucket to Big query", "course": "data-engineering-zoomcamp", "document_id": "c5c3beba"}

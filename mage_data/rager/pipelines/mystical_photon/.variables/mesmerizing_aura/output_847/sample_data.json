@@ -1,0 +1,1 @@
+{"text": "Problem: how to enable auto completion in jupyter notebook? Tab doesn\u2019t work for me\nSolution: !pip install --upgrade jedi==0.17.2\nChristopher R.J.(romanjaimesc@gmail.com)", "section": "Module 1: Introduction", "question": "Enabling Auto-completion in jupyter notebook", "course": "mlops-zoomcamp", "document_id": "931f9626"}

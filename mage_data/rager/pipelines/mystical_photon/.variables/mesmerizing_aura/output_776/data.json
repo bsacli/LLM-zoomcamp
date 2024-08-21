@@ -1,0 +1,1 @@
+{"text": "There are different techniques, but the most common used are the next:\nDataset transformation (for example, log transformation)\nClipping high values\nDropping these observations\nAlena Kniazeva", "section": "Miscellaneous", "question": "How to handle outliers in a dataset?", "course": "machine-learning-zoomcamp", "document_id": "efc4a04f"}

@@ -1,0 +1,1 @@
+{"text": "I don\u2019t use visual studio, so I did it the old fashioned way: ssh -L 8888:localhost:8888 <my user>@<VM IP> (replace user and IP with the ones used by the GCP VM, e.g. : ssh -L 8888:localhost:8888 myuser@34.140.188.1", "section": "Module 5: pyspark", "question": "How to port forward outside VS Code", "course": "data-engineering-zoomcamp", "document_id": "64bfb2c3"}

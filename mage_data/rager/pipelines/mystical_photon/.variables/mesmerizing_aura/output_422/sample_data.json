@@ -1,0 +1,1 @@
+{"text": "Ans: about 7GB free for all the containers to be provisioned and then the psql still needs to run and ingest the taxi data, so maybe 10gb in total?", "section": "Workshop 2 - RisingWave", "question": "Setup - Qn: How much free disk space should we have? [source]", "course": "data-engineering-zoomcamp", "document_id": "4def6541"}

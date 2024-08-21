@@ -1,0 +1,1 @@
+{"text": "Solution (for mac users): os.system(f\"curl {url} --output {csv_name}\")", "section": "Module 1: Docker and Terraform", "question": "CURL - curl: (6) Could not resolve host: output.csv", "course": "data-engineering-zoomcamp", "document_id": "f55efcf0"}

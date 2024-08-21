@@ -1,0 +1,1 @@
+{"text": "When using evidently if you get this error.\nYou probably forgot to and parentheses () just and opening and closing and you are good to go.\nQuinn Avila", "section": "Module 5: Monitoring", "question": "ValueError: Incorrect item instead of a metric or metric preset was passed to Report", "course": "mlops-zoomcamp", "document_id": "03f20ec1"}

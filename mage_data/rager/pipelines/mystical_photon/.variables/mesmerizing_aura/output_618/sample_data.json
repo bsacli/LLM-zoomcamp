@@ -1,0 +1,1 @@
+{"text": "Install it by using command\n% brew install md5sha1sum\nThen run command to check hash for file to check if they the same with the provided\n% md5sum model1.bin dv.bin\nOlga Rudakova", "section": "5. Deploying Machine Learning Models", "question": "Installing md5sum on Macos", "course": "machine-learning-zoomcamp", "document_id": "4ea80460"}

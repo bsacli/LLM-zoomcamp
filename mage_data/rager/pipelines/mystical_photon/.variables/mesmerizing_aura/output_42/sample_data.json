@@ -1,0 +1,1 @@
+{"text": "Error: Makefile:2: *** missing separator.  Stop.\nSolution: Tabs in document should be converted to Tab instead of spaces. Follow this stack.", "section": "General course-related questions", "question": "VS Code: Tab using spaces", "course": "data-engineering-zoomcamp", "document_id": "eb9d376f"}

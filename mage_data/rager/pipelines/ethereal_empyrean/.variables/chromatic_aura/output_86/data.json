@@ -1,0 +1,1 @@
+{"text": "If you get this error\nOr 401 Client Error , then you either need to grant access to the key or the key is wrong.", "section": "Workshops: dlthub", "question": "Notebook does not have secret access or 401 Client Error: Unauthorized for url: https://api.notion.com/v1/search", "course": "llm-zoomcamp", "document_id": "e2433e15"}

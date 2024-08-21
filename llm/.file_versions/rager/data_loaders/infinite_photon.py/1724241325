@@ -1,0 +1,69 @@
+from typing import Dict, List, Union
+from elasticsearch import Elasticsearch, exceptions
+
+
+# index_name='documents_20240821_5016'  # Replace with your actual index name
+# connection_string='http://elasticsearch:9200'
+
+@data_loader
+def search(*args, **kwargs) -> List[Dict[str, str]]:
+    """
+    Searches for documents in Elasticsearch based on a query.
+
+    :param query: Query string for full-text search.
+    :param index_name: Name of the Elasticsearch index.
+    :param connection_string: Connection string for Elasticsearch.
+    :param top_k: Number of top results to return.
+    :param chunk_column: The field to retrieve from the documents.
+    :return: List of top search results.
+    """
+    query = "When is the next cohort?"
+    connection_string = kwargs.get('connection_string', 'http://elasticsearch:9200')
+    index_name = kwargs.get('index_name', 'documents_20240821_5016')
+    # source = kwargs.get('source', "cosineSimilarity(params.query_vector, 'embedding') + 1.0")
+    top_k = kwargs.get('top_k', 5)
+    chunk_column = kwargs.get('chunk_column', 'text')
+
+    es_client = Elasticsearch(connection_string)
+    
+    # Construct the search query
+    search_query = {
+        "size": top_k,
+        "query": {
+            "match": {
+                "text": query
+            }
+        }
+    }
+
+    try:
+        response = es_client.search(
+            index=index_name,
+            body=search_query
+        )
+        
+        return response['hits']['hits']
+    
+    except exceptions.BadRequestError as e:
+        print(f"BadRequestError: {e.info}")
+        return []
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+        return []
+
+# Define and execute the search query
+# query = "When is the next cohort?"
+
+# # Call the search function
+# results = search(
+#     query=query,
+#     index_name='',  # Replace with your actual index name
+#     connection_string='http://elasticsearch:9200'
+# )
+
+# # Print results to find the top matching result ID
+# if results:
+#     top_result = results[0]  # The top result is the first in the list
+#     print(f"Top matching result ID: {top_result['_id']}")
+# else:
+#     print("No results found.")

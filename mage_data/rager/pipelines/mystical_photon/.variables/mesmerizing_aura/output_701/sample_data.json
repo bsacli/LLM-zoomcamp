@@ -1,0 +1,1 @@
+{"text": "We can use the keras.models.Sequential() function to pass many parameters of the cnn at once.\nKrishna Anand", "section": "9. Serverless Deep Learning", "question": "Pass many parameters in the model at once", "course": "machine-learning-zoomcamp", "document_id": "93aa4278"}

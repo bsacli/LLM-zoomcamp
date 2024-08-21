@@ -1,0 +1,1 @@
+{"text": "Add the next lines to vim /etc/docker/daemon.json\n{\n\"dns\": [\"8.8.8.8\", \"8.8.4.4\"]\n}\nThen, restart docker:  sudo service docker restart\nIbai Irastorza", "section": "9. Serverless Deep Learning", "question": "Docker Temporary failure in name resolution", "course": "machine-learning-zoomcamp", "document_id": "1078aeb7"}

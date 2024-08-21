@@ -1,0 +1,1 @@
+{"text": "The green dataset contains lpep_pickup_datetime while the yellow contains tpep_pickup_datetime. Modify the script(s) depending on  the dataset as required.", "section": "Module 2: Workflow Orchestration", "question": "No column name lpep_pickup_datetime / tpep_pickup_datetime", "course": "data-engineering-zoomcamp", "document_id": "70a37f2c"}

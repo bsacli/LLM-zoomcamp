@@ -1,0 +1,1 @@
+{"text": "Use sklearn.preprocessing encoders and scalers, e.g. OneHotEncoder, OrdinalEncoder, and StandardScaler.", "section": "3. Machine Learning for Classification", "question": "Transforming Non-Numerical Columns into Numerical Columns", "course": "machine-learning-zoomcamp", "document_id": "3ca0b489"}

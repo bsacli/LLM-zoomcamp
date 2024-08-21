@@ -1,0 +1,1 @@
+{"text": "1. Delete all containers (including running ones):\n```\ndocker rm -f\n```\n2. Remove all images:\n```\ndocker rmi -f\n```\n3. Delete all volumes:\n```\ndocker volume rm\n```", "section": "Module 4: Monitoring", "question": "How can I remove all Docker containers, images, and volumes, and builds from the terminal?", "course": "llm-zoomcamp", "document_id": "fe48ad62"}

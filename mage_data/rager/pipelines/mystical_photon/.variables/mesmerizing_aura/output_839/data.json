@@ -1,0 +1,1 @@
+{"text": "First remove the outliers (trips with unusual duration) before plotting\nAdded by Ibraheem Taha (ibraheemtaha91@gmail.com)", "section": "Module 1: Introduction", "question": "Distplot takes too long", "course": "mlops-zoomcamp", "document_id": "45485322"}

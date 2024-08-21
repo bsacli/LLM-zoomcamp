@@ -1,0 +1,1 @@
+{"text": "Run the following command to check if \u201cBigQuery Command Line Tool\u201d is installed or not: gcloud components list\nYou can also use bq.cmd instead of bq to make it work.", "section": "Module 3: Data Warehousing", "question": "GCP BQ - \u201cbq: command not found\u201d", "course": "data-engineering-zoomcamp", "document_id": "fac138a7"}

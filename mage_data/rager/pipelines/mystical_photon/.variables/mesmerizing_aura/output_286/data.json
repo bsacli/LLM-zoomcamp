@@ -1,0 +1,1 @@
+{"text": "If you encounter data type error on trip_type column, it may due to some nan values that isn\u2019t null in bigquery.\nSolution: try casting it to FLOAT datatype instead of NUMERIC", "section": "Module 4: analytics engineering with dbt", "question": "Data Type Error when running fact table", "course": "data-engineering-zoomcamp", "document_id": "46aebc79"}

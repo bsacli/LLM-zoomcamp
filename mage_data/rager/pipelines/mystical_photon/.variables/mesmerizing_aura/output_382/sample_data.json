@@ -1,0 +1,1 @@
+{"text": "Run this command in terminal in the same directory (/docker/spark):\nchmod +x build.sh", "section": "Module 6: streaming with kafka", "question": "Python Kafka: ./build.sh: Permission denied Error", "course": "data-engineering-zoomcamp", "document_id": "1e50eab7"}

@@ -1,0 +1,1 @@
+{"text": "Install w get:\n!which wget\nDownload data:\n!wget -P /content/drive/My\\ Drive/Downloads/ URL\n(added by Paulina Hernandez)", "section": "Miscellaneous", "question": "How to use wget with Google Colab?", "course": "machine-learning-zoomcamp", "document_id": "44552c2e"}

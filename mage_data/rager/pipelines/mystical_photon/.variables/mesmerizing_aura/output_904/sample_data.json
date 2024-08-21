@@ -1,0 +1,1 @@
+{"text": "This issue is usually due to the pythonfinder module in pipenv.\nThe solution to this involves manually changing the scripts as describe here python_finder_fix\nAdded by Ridwan Amure", "section": "Module 4: Deployment", "question": "Permission Denied using Pipenv", "course": "mlops-zoomcamp", "document_id": "e44ec04a"}

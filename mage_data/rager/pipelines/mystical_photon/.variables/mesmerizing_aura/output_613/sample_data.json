@@ -1,0 +1,1 @@
+{"text": "Solution:\nThis error occurred because I used single quotes around the filenames. Stick to double quotes", "section": "5. Deploying Machine Learning Models", "question": "docker  build ERROR [x/y] COPY \u2026", "course": "machine-learning-zoomcamp", "document_id": "3419ee27"}

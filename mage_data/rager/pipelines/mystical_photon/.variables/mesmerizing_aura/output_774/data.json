@@ -1,0 +1,1 @@
+{"text": "In the Elastic Container Service task log, error \u201c[Errno 12] Cannot allocate memory\u201d showed up.\nJust increase the RAM and CPU in your task definition.\nHumberto Rodriguez", "section": "Miscellaneous", "question": "[Errno 12] Cannot allocate memory in AWS Elastic Container Service", "course": "machine-learning-zoomcamp", "document_id": "fcd86c8f"}

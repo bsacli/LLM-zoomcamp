@@ -1,0 +1,1 @@
+{"text": "Import waitress\nprint(waitress.__version__)\nKrishna Anand", "section": "5. Deploying Machine Learning Models", "question": "Method to find the version of any install python libraries in jupyter notebook", "course": "machine-learning-zoomcamp", "document_id": "7156679d"}

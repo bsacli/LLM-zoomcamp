@@ -1,0 +1,1 @@
+{"text": "If you would like to use multiple conditions as an example below you will get the error. The correct syntax for OR is |, and for AND is &\n(Olga Rudakova)\n\u2013", "section": "2. Machine Learning for Regression", "question": "What syntax use in Pandas for multiple conditions using logical AND and OR", "course": "machine-learning-zoomcamp", "document_id": "225506b9"}

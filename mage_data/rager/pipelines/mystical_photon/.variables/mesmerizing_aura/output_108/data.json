@@ -1,0 +1,1 @@
+{"text": "When using the command `\\d <database name>` you get the error column `c.relhasoids does not exist`.\nResolution:\nUninstall pgcli\nReinstall pgclidatabase \"ny_taxi\" does not exist\nRestart pc", "section": "Module 1: Docker and Terraform", "question": "PGCLI - error column c.relhasoids does not exist", "course": "data-engineering-zoomcamp", "document_id": "c91ad8f2"}

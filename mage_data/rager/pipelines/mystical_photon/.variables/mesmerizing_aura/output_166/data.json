@@ -1,0 +1,1 @@
+{"text": "You forgot to select \u2018dev\u2019 profile in the dropdown menu next to where you select \u2018PostgreSQL\u2019 in the connection drop down.", "section": "Module 2: Workflow Orchestration", "question": "MAGE - 2.2.4 executing SELECT 1; results in KeyError", "course": "data-engineering-zoomcamp", "document_id": "f9d6f8bd"}

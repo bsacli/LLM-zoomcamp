@@ -1,0 +1,1 @@
+{"text": "Restarting all services worked for me:\ndocker-compose down\ndocker-compose up", "section": "Module 6: streaming with kafka", "question": "Python Kafka: \u2018KafkaTimeoutError: Failed to update metadata after 60.0 secs.\u2019 when running stream-example/producer.py", "course": "data-engineering-zoomcamp", "document_id": "a7a6d0d7"}

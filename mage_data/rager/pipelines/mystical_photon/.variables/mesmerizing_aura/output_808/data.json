@@ -1,0 +1,1 @@
+{"text": "The TF and TF Serving versions have to match (as per solution from the slack channel)\nAdded by Chiedu Elue", "section": "Miscellaneous", "question": "Flask image was built and tested successfully, but tensorflow serving image was built and unable to test successfully. What could be the problem?", "course": "machine-learning-zoomcamp", "document_id": "387bdc5f"}

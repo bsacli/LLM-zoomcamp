@@ -1,0 +1,1 @@
+{"text": "Using kind with Rootless Docker or Rootless Podman requires some changes on the system (Linux), see kind \u2013 Rootless (k8s.io).\nSylvia Schmitt", "section": "10. Kubernetes and TensorFlow Serving", "question": "Running kind on Linux with Rootless Docker or Rootless Podman", "course": "machine-learning-zoomcamp", "document_id": "64b209b0"}

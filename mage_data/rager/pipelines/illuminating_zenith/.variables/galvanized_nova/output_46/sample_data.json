@@ -1,0 +1,1 @@
+{"text": "pip install protobuf==3.20.1\nAdded by Ibai Irastorza", "section": "Module 2: Open-Source LLMs", "question": "Python: from google.protobuf.pyext import _message / TypeError: bases must be types", "course": "llm-faq-v1", "document_id": "686f35bf"}

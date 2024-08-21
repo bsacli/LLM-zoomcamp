@@ -1,0 +1,1 @@
+{"text": "When you try to login in Grafana with standard requisites (admin/admin) it throw up an error.\nAfter run grafana-cli admin reset-admin-password admin in Grafana container the problem will be fixed\nAdded by Artem Glazkov", "section": "Module 5: Monitoring", "question": "Standard login in Grafana does not work", "course": "mlops-zoomcamp", "document_id": "92fb909a"}

@@ -1,0 +1,1 @@
+{"text": "see here", "section": "9. Serverless Deep Learning", "question": "Command aws ecr get-login --no-include-email returns \u201caws: error: argument operation: Invalid choice\u2026\u201d", "course": "machine-learning-zoomcamp", "document_id": "29311ef5"}

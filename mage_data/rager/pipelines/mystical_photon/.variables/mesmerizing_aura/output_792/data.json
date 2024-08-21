@@ -1,0 +1,1 @@
+{"text": "You can convert the prediction output values to a datafarme using \ndf = pd.DataFrame.from_dict(dict, orient='index' , columns=[\"Prediction\"])\nEdidiong Esu", "section": "Miscellaneous", "question": "Convert dictionary values to Dataframe table", "course": "machine-learning-zoomcamp", "document_id": "7a69cccf"}

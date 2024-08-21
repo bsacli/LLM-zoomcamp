@@ -1,0 +1,1 @@
+{"text": "Use command $pipenv lock to force the creation of Pipfile.lock\nAdded by Bijay P.", "section": "Module 4: Deployment", "question": "Pipfile.lock was not created along with Pipfile", "course": "mlops-zoomcamp", "document_id": "232e5557"}

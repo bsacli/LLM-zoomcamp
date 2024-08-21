@@ -1,0 +1,1 @@
+{"text": "On few versions of Ubuntu, snap command can be used to install Docker.\nsudo snap install docker", "section": "Module 1: Docker and Terraform", "question": "Docker not installable on Ubuntu", "course": "data-engineering-zoomcamp", "document_id": "c6db65aa"}

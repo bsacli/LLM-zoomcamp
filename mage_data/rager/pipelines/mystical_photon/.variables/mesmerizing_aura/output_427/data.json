@@ -1,0 +1,1 @@
+{"text": "Use seed-kafka instead of stream-kafka to get a static set of results.", "section": "Workshop 2 - RisingWave", "question": "For the homework questions is there a specific number of records that have to be processed to obtain the final answer?", "course": "data-engineering-zoomcamp", "document_id": "cbca4495"}

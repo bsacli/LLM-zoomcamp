@@ -1,0 +1,1 @@
+{"text": "Make sure to use an instance with enough compute capabilities such as a t2.xlarge. You can check the monitoring tab in the EC2 dashboard to monitor your instance.", "section": "Module 1: Introduction", "question": "VS Code crashes when connecting to Jupyter", "course": "mlops-zoomcamp", "document_id": "abf8ccdc"}

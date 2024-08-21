@@ -1,0 +1,1 @@
+{"text": "PULocationID will not be recognized but \u201cPULocationID\u201d will be. This is because unquoted \"Localidentifiers are case insensitive. See docs.", "section": "Module 1: Docker and Terraform", "question": "PGCLI - case sensitive use \u201cQuotations\u201d around columns with capital letters", "course": "data-engineering-zoomcamp", "document_id": "f7c5d8da"}

@@ -1,0 +1,1 @@
+{"text": "import numpy as np\nnormalize_vec = lambda v: v / np.linalg.norm(v)\ndf[\"new_col\"] = df[\"org_col\"].apply(norm_vec)", "section": "Module 4: Monitoring", "question": "How to normalize vectors in a Pandas DataFrame column (or Pandas Series)?", "course": "llm-faq-v1", "document_id": "7122e033"}

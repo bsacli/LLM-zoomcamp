@@ -1,0 +1,1 @@
+{"text": "Inside .env file change POSTGRES_HOST=localhost", "section": "Module 4: Monitoring", "question": "OperationalError when running python prep.pypsycopg2. OperationalError: could not translate host name \"postgres\" to address: No such host is known. How do I fix this issue?", "course": "llm-faq-v1", "document_id": "c2567142"}

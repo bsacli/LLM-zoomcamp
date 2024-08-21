@@ -1,0 +1,1 @@
+{"text": "Since the version 1.29 the list_experiments method was deprecated and then removed in the later version\nYou should use search_experiments instead\nAdded by Alex Litvinov", "section": "Module 2: Experiment tracking", "question": "MlflowClient object has no attribute 'list_experiments'", "course": "mlops-zoomcamp", "document_id": "b8d3c55e"}

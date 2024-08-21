@@ -1,0 +1,1 @@
+{"text": "Problem description\nPre-commit command was failing with isort repo.\nSolution description\nSet version to 5.12.0\nAdded by Erick Calderin", "section": "Module 6: Best practices", "question": "Isort Pre-commit", "course": "mlops-zoomcamp", "document_id": "fb3c4150"}

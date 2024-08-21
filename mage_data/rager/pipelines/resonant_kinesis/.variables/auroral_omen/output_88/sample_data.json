@@ -1,0 +1,1 @@
+{"text": "Install directly from source E.g `pip install \"requests @ https://github.com/psf/requests/archive/refs/tags/v2.32.3.zip\"`", "section": "Workshops: X", "question": "Error: How to fix requests library only installs v2.28 instead of v2.32 required for lancedb?", "course": "llm-zoomcamp", "document_id": "99ab2f5d"}

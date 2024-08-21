@@ -1,0 +1,1 @@
+{"text": "provider \"google\" {\nproject     = var.projectId\ncredentials = file(\"${var.gcpkey}\")\n#region      = var.region\nzone = var.zone\n}", "section": "Module 1: Docker and Terraform", "question": "To ensure the sensitivity of the credentials file, I had to spend lot of time to input that as a file.", "course": "data-engineering-zoomcamp", "document_id": "5d7588f0"}

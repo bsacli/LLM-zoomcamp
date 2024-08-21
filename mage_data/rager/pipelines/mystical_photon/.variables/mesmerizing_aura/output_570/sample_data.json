@@ -1,0 +1,1 @@
+{"text": "from tqdm.auto import tqdm\nTqdm - terminal progress bar\nKrishna Anand", "section": "4. Evaluation Metrics for Classification", "question": "Monitoring Wait times and progress of the code execution can be done with:", "course": "machine-learning-zoomcamp", "document_id": "7b9eb7f7"}

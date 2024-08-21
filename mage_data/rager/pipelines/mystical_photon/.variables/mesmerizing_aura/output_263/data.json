@@ -1,0 +1,1 @@
+{"text": "Remove the dataset from BigQuery which was created by dbt and run dbt run again so that it will recreate the dataset in BigQuery with the correct location", "section": "Module 4: analytics engineering with dbt", "question": "I changed location in dbt, but dbt run still gives me an error", "course": "data-engineering-zoomcamp", "document_id": "cb678fde"}

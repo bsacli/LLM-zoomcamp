@@ -1,0 +1,1 @@
+{"text": "Transformed data can be moved in to azure blob storage and then it can be moved in to azure SQL DB, instead of moving directly from databricks to Azure SQL DB.", "section": "Project", "question": "Data Transformation from Databricks to Azure SQL DB", "course": "data-engineering-zoomcamp", "document_id": "5214eb93"}
